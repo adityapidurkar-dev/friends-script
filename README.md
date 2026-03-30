@@ -3,7 +3,6 @@
 The scripts used by the actors of the classic American sitcom Friends. It has the scripts of the 10 seasons of the series 
 you can see in HTML format here:
 
-* [https://edersoncorbari.github.io/friends/](https://edersoncorbari.github.io/friends/)
 
 ### Season 1 Cover ###
 
